@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Welcome to my Personal Website. 
+![University of Surrey](images/Background.jpg)
 
 I am currently a PhD Candidate at the University of Surrey in the field of Computer Vision. My current research is focused on Sign Language Recognition and Translation.
 
