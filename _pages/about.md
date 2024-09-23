@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website of Low Jian He"
+title: "Low Jian He Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,17 @@ redirect_from:
 
 Welcome to my Personal Website. 
 
-Education Background
-======
-- First Class Master's in Artificial Intelligence at University of Surrey
-- First Class Bachelor's in Electrical and Electronic Engineering at University of Coventry
-- 3.99 GPA Foundation in Engineering at INTI International College
+I am currently a PhD Candidate at the University of Surrey in the field of Computer Vision. My current research is focused on Sign Language Recognition and Translation.
 
-Work Experiences
-======
-- Software Automations Engineer at AMD EPYC
-- Artificial Intelligence Intern at Intel Corp.
+#Education Background
+#======
+#- First Class Master's in Artificial Intelligence at University of Surrey
+#- First Class Bachelor's in Electrical and Electronic Engineering at University of Coventry
+#- 3.99 GPA Foundation in Engineering at INTI International College
+
+#Work Experiences
+#======
+#- Software Automations Engineer at AMD EPYC
+#- Artificial Intelligence Intern at Intel Corp.
 
 
