@@ -7,20 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my Personal Website. 
 ![University of Surrey](/images/Background.jpg)
 
-I am currently a PhD Candidate at the University of Surrey in the field of Computer Vision. My current research is focused on Sign Language Recognition and Translation.
+Welcome to my personal website! I am a PhD Candidate at [CVSSP, University of Surrey](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), specializing in Computer Vision. My research focuses on advancing Sign Language Recognition and Translation by harnessing the power of Large Language Models (LLMs). I aim to find ways to leverage LLMs for understanding and processing sign language, and introduce breakthroughs to this field. I'm currently working under the supervision of [Professor Richard Bowden](https://www.surrey.ac.uk/people/richard-bowden) and I hope the fruits of my PhD will help improve communication and accessibility for the Deaf and hard-of-hearing communities.
 
-Education Background
+Research Highlights
 ======
-- First Class Master's in Artificial Intelligence at University of Surrey
-- First Class Bachelor's in Electrical and Electronic Engineering at University of Coventry
-- 3.99 GPA Foundation in Engineering at INTI International College
+1. Sign Spotting Disambiguation using Large Language Models.
 
-Work Experiences
-======
-- Software Automations Engineer at AMD EPYC
-- Artificial Intelligence Intern at Intel Corp.
+
 
 
