@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Vision and Deep Learning, University of Surrey, 2027 (Expected)
+* M.Sc in Artificial Intelligence, University of Surrey, 2024
+* B.Eng in Electrical and Electronic Engineering, Coventry University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023: Software Automations Engineer
+  * AMD EPYC
+  * Pioneered the construction of a MySQL server on an EPYC server platform.
+  * Spearheaded the integration of the Automation Framework across several teams.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Artificial Intelligence Intern
+  * INTEL Corp.
+  * Successfully conducted research on a self-supervised C/C++ code anomaly Machine Learning Model.
+  *  Performed additional research on other bug-detection AI models for code and prepared a research report.
   
 Skills
 ======
