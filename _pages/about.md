@@ -14,6 +14,7 @@ Welcome to my personal website! I am a PhD Candidate at [CVSSP, University of Su
 Research Highlights
 ======
 1. Sign Spotting Disambiguation using Large Language Models.
+![Overview of Sign Spotting Disambiguation](/images/overview.png)
 
 
 
