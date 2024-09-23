@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Low Jian He Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
